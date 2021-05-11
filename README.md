@@ -100,6 +100,9 @@ _ **Discussion volume** _
 
 ![](RackMultipart20210511-4-12nmp7u_html_2feb0f4c950c941e.png) ![](RackMultipart20210511-4-12nmp7u_html_4ca973d373e152e1.png)
 
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/Discussion%20India.png)
+
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/Discussion%20USA.png)
 Discussion from United State Discussion from India
 
 The above two graphs respectively record the trend graphs of the number of daily discussions about the COVID-19 vaccine by Twitter users in India and the United States from December 12, 2020 to April 19, 2021. It can be clearly seen that Twitter users in the United States have been more active in discussions about vaccines than those in India. The discussion of vaccines by Twitter users in India has changed with the changes in the number of people infected with the local epidemic. India has rapidly dropped from nearly 100,000 cases on September 28, 2020 to 8,697 cases on February 28, 2021. The number of daily infections once dropped sharply, just when the world believed that India had successfully contained the epidemic. In April, the epidemic in India began to rebound rapidly, and the number of discussions among users on Twitter also increased.
@@ -113,6 +116,10 @@ _**T ![](RackMultipart20210511-4-12nmp7u_html_2c4a49356bf53ca4.png) opic of disc
 Topics from United StateTopics from India
 
 
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/LDA%20India.png)
+
+
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/LDA%20USA.png）
 
 We have conducted topic mining on vaccine-related posts posted by Twitter users in India and the United States. It can be clearly seen that there are certain differences in the discussion of the topic of vaccines between the two regions. The discussion on Twitter in India involves the political level between countries. Here you can see the emergence of China and Russia. Covaxin, a vaccine brand developed locally in India, has also appeared, and imported vaccine brands such as Pfizer and Johnson &amp; Johnson in the United States have also appeared. There is also a discussion about the government&#39;s vaccine policy and the dosage of people vaccinated. The overall discussion of Indian Twitter users tends to focus on the part of people&#39;s livelihood concerns.
 
@@ -122,6 +129,9 @@ _**C ![](RackMultipart20210511-4-12nmp7u_html_27440469c0a62a71.png) ![](RackMult
 
 Content from United StateContent from India
 
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/word%20cloud%20India.png）
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/word%20cloud%20USA.png）
+
 We have also obtained two other word cloud maps that allow us to summarize the public attention of these two countries (USA and India) in general. In the specific context of vaccination, both Americans and Indians focus their attention resources almost exclusively on the two topics of vaccines or coronavirus. The difference is that Americans seem to focus more on the brand of the vaccine during this period. What we can reasonably infer is that Americans have more choice in vaccines because their vaccines are domestically produced. Although there were a number of unexpected conditions that occurred during the injection process, and of course these unexpected conditions certainly became the focus of public discussion. But what is undeniable is that the United States still has a global leadership position in biochemical pharmaceuticals.
 
 In contrast, in India, their public attention is actually focused more on the vaccines available abroad than on the epidemic and the vaccines. We can see this from the words &quot;SputnikV&quot; and &quot;Pfizer&quot;, &quot;Moderna&quot; and other vaccine brand names. Of course, we can see that they clearly prefer to get the Russian &quot;SputnikV&quot; vaccine. This reflects India&#39;s deficiency in the field of biochemical medicine, although they have provided OEM services to some vaccine development countries since the launch of the vaccine. It is also worth noting that the Indian public is very concerned about their Prime Minister, Narendra Modi. We can see this in the size of the keyword &quot;Narendra Modi&quot;. This shows that Indians care a lot about the leader or his government&#39;s response to the outbreak or the vaccination efforts. The fact that so much public attention is focused on the Prime Minister of India reflects that the public wants to express their wishes or demands to the government regarding the vaccine or the epidemic. If the government were to pay attention to this desire or demand, then the government would change their media agenda setting and thus achieve a public agenda setting. In this way, the Indian government can shape the larger issue of vaccination among the public and ultimately achieve a synergy with the public. However, the reality is that the Modi government seems to have a hard time focusing on vaccination while opening up religious and folkloric activities that have led to the outbreak getting further out of control in India.
@@ -129,6 +139,10 @@ In contrast, in India, their public attention is actually focused more on the va
 _**S ![](RackMultipart20210511-4-12nmp7u_html_b9acdd6e4587849d.png) ![](RackMultipart20210511-4-12nmp7u_html_101875d32c33bef.png) entiment**_ _ **a** __ **nalysis** _
 
 Sentiment from United State Sentiment from India
+
+
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20India.png）
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20USA.png）
 
 In our sample, the amount of discussion on vaccines by Indian users on Twitter is higher than that in the United States, which to some extent shows that Indians are more concerned about the topic of Covid-19 vaccines may due to the current virus outbreak in India.
 
@@ -145,8 +159,18 @@ All in all, people on Twitter are more concerned about the effectiveness and saf
 _**S ![](RackMultipart20210511-4-12nmp7u_html_63adb4174c91aa24.png) ![](RackMultipart20210511-4-12nmp7u_html_c1c36525ade7c918.png) entiment trend analysis**_
 
 Sentiment trend of United State Sentiment trend of India
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20trend%20India.png）
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20trend%20USA.png）
 
 The picture above shows the tweets about the COVID-19 vaccine from the United States and India from December 2020 to April 2021. It can be seen that the American public has greater emotional fluctuations in the discussion of vaccines. And overall, the emotional intensity of the discussion gradually increased. Neutral emotions are always the strongest, followed by positive emotions. At the same time, the gap between positive emotions and negative emotions is large and has a tendency to gradually increase. Only at certain times, such as mid-March and April 16 after the public is vaccinated. After the news of complications or death is released, the intensity of negative emotions is greater than or close to the discussion of positive emotions. The rest of the time period, the discussions are mainly positive. After April 16, it can be seen that the gap between positive and negative emotions continues. Increase.
+
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20word%20cloud%20India.png）
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20word%20cloud%20India2.png）
+
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20word%20cloud%20USA.png）
+![image](https://github.com/VincenCHEN-github/text-analysis/blob/main/results/sentiment%20word%20cloud%20USA2.png）
+
+
 
 The tweets from India showed a more stable emotional expression, and various emotions were always flat. At this time, India did not officially launch a large-scale vaccination work. As India announced on March 1 that more than 200 million ordinary people have begun to vaccinate Vaccines, the integrity of public discussions on social media, have exploded, and the emotions discussed at this time are more positive. However, the emotional intensity of the subsequent discussions decreased rapidly and stabilized. The discussion was generally positive, but the gap with negative emotions was small. Until the news release on March 16 that Australian vaccination patients died of thrombosis, negative emotions Discussions dominate the mainstream. The vaccination work in India has not been carried out smoothly and the vaccination rate is low. As the public is still far away from the vaccine, it is reflected in the fact that the public&#39;s emotional attitude towards the vaccine has not changed significantly, and the continuous out-of-control of the epidemic has also caused the public to discuss the vaccine. More negative.
 
