@@ -5,9 +5,7 @@
 
 Department of communication, Hong Kong Baptist university
 
-AIDM7350 AI for Digital Media Workshop
 
-Dr. WANG Xiaohui
 
 April 29, 2021
 
